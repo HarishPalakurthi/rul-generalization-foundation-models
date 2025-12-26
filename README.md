@@ -1,2 +1,3 @@
-# rul-generalization-foundation-models
-Generalizable foundation models for Remaining Useful Life (RUL) prediction across complex systems. Includes LSTM, Transformer, PINNs, streaming inference, NASA CMAPSS benchmarks, and transfer learning to new domains.
+# RUL Generalization – Foundation Models
+
+This repository contains end-to-end implementations of data-driven, physics-informed,and hybrid foundation models for Remaining Useful Life (RUL) prediction across complex systems.
