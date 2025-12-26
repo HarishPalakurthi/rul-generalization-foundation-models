@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.txt
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
